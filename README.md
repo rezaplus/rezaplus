@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**rezaplus/rezaplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+Hi, It's me Reza Hajizadeh, a backend developer with over 9 years of experience in software development. I have a passion for creating high-quality, scalable web applications that help businesses succeed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tech Stack
+
+I have experience working with a variety of technologies, including:
+
+-   Programming languages: PHP, Java, JavaScript, C and its derivatives
+-   Frameworks: Laravel, Yii2, and more
+-   Databases: MySQL, PostgreSQL
+-   CMS: I have knowledge of both WordPress and Craft development.
+-   version control systems: Git, SVN.
+
+## Reach me
+
+You can learn more about me and my work by visiting my [personal website](https://rezahajizade.com/) or connecting with me on [LinkedIn](https://www.linkedin.com/in/rezahajizade/).
+I'm always open to new opportunities and collaborations, so feel free to get in touch!
