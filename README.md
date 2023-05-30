@@ -11,5 +11,5 @@ Over the years, I have honed my skills across a wide range of technologies, whic
 -   CMS: I have in-depth knowledge of popular CMS platforms such as Statamic, Craft, and WordPress.
 -   Version control systems: Well-versed in utilizing Git and SVN.
 
-## Reach out to me
-To delve deeper into my journey and explore my work, feel free to visit [my personal](https://rezahajizade.com/) website or connect with me on [LinkedIn](https://www.linkedin.com/in/rezahajizade/). I am always open to exciting new opportunities and collaborations, so please don't hesitate to get in touch!
+## Get in touch
+If you're interested in delving deeper into my journey and exploring my work, I invite you to visit [my personal](https://rezahajizade.com/)  website or connect with me on [LinkedIn](https://www.linkedin.com/in/rezahajizade/). I am always open to exciting new opportunities and collaborations, so please don't hesitate to get in touch! I look forward to connecting with you.
