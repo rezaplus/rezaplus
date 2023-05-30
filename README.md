@@ -1,20 +1,15 @@
-
 # Welcome to my GitHub profile!
 
-Hi, It's me Reza Hajizadeh, a backend developer with over 9 years of experience in software development. I have a passion for creating high-quality, scalable web applications that help businesses succeed.
-
+Greetings! I'm Reza Hajizadeh, a seasoned backend developer with over 9 years of extensive experience in the field of software development. My true passion lies in crafting high-quality, scalable web applications that empower businesses to thrive and succeed.
 
 ## Tech Stack
+Over the years, I have honed my skills across a wide range of technologies, which include:
 
-I have experience working with a variety of technologies, including:
+-   Programming languages: PHP, Java, JavaScript, C, and their derivatives.
+-   Frameworks: I specialize in Laravel, Yii2, and various other frameworks.
+-   Databases: Proficient in working with MySQL and PostgreSQL.
+-   CMS: I have in-depth knowledge of popular CMS platforms such as Statamic, Craft, and WordPress.
+-   Version control systems: Well-versed in utilizing Git and SVN.
 
--   Programming languages: PHP, Java, JavaScript, C and its derivatives
--   Frameworks: Laravel, Yii2, and more
--   Databases: MySQL, PostgreSQL
--   CMS: I have knowledge of both WordPress and Craft development.
--   version control systems: Git, SVN.
-
-## Reach me
-
-You can learn more about me and my work by visiting my [personal website](https://rezahajizade.com/) or connecting with me on [LinkedIn](https://www.linkedin.com/in/rezahajizade/).
-I'm always open to new opportunities and collaborations, so feel free to get in touch!
+##Reach out to me
+To delve deeper into my journey and explore my work, feel free to visit [my personal](https://rezahajizade.com/) website or connect with me on [LinkedIn](https://www.linkedin.com/in/rezahajizade/). I am always open to exciting new opportunities and collaborations, so please don't hesitate to get in touch!
