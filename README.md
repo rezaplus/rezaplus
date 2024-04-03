@@ -5,9 +5,8 @@ Greetings! I'm a backend developer with 7 years of extensive experience in the f
 ## Tech Stack
 Over the years, I have honed my skills across a wide range of technologies, which include:
 
--   Programming languages: PHP, Java, JavaScript, C, and their derivatives.
--   Frameworks: I specialize in Laravel, Yii2, and various other frameworks.
--   Databases: MySQL and PostgreSQL.
+-   Programming languages: PHP, Java, JavaScript, C#, Node.js
+-   Databases: MySQL, MongoDB, and PostgreSQL.
 -   CMS:  Statamic, Craft, and WordPress.
 -   Version control systems: Git and SVN.
 
