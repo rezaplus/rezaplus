@@ -11,5 +11,5 @@ Over the years, I have honed my skills across a wide range of technologies, whic
 -   Version control systems: Git and SVN.
 
 ## Get in touch
-If you're interested in delving deeper into my journey and exploring my work, I invite you to visit [my personal](https://rezahajizade.com/)  website or connect with me on [LinkedIn](https://www.linkedin.com/in/rezahajizade/). I am always open to exciting new opportunities and collaborations, so please don't hesitate to get in touch!
+If you're interested in delving deeper into my journey and exploring my work, I invite you to visit [my personal](https://rezahz.me/)  website or connect with me on [LinkedIn](https://www.linkedin.com/in/rezahajizade/). I am always open to exciting new opportunities and collaborations, so please don't hesitate to get in touch!
 I look forward to connecting with you.
