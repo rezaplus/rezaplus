@@ -1,15 +1,29 @@
-# Welcome to my GitHub profile!
+# 👋 Reza Hajizadeh  
+**Backend Engineer — Laravel & Node.js**
 
-Greetings! I'm a backend developer with 7 years of extensive experience in the field of software development. My diverse roles have honed not only my project management and leadership skills but have also made me adept at creating excellent web projects.
+I build backends that don’t crash, APIs that don’t choke, and systems that scale without crying.  
+8+ years shipping SaaS platforms, real-time messaging systems, hosting automation, and high-traffic enterprise sites.
 
-## Tech Stack
-Over the years, I have honed my skills across a wide range of technologies, which include:
+---
 
--   Programming languages: PHP, Java, JavaScript, C#, Node.js
--   Databases: MySQL, MongoDB, and PostgreSQL.
--   CMS:  Statamic, Craft, and WordPress.
--   Version control systems: Git and SVN.
+## ⚡ What I’m Good At
+PHP (Laravel) • Node.js • MySQL • PostgreSQL • MongoDB • Redis  
+RabbitMQ • WebSockets • Docker • Nginx • Craft CMS • WordPress (plugins)
 
-## Get in touch
-If you're interested in delving deeper into my journey and exploring my work, I invite you to visit [my personal](https://rezahz.me/)  website or connect with me on [LinkedIn](https://www.linkedin.com/in/rezahajizade/). I am always open to exciting new opportunities and collaborations, so please don't hesitate to get in touch!
-I look forward to connecting with you.
+---
+
+## 🔧 Things I’ve Actually Built
+- **BaTimo.ai** — Multi-channel AI CRM (Instagram, WhatsApp, Webchat)
+- **Panguards** — Outline VPN key automation system
+- **Orders Pro** — Advanced WooCommerce order management plugin
+- **TWChat** — WhatsApp integration plugin for WordPress
+- High-traffic enterprise platforms (1M+ monthly visitors)
+
+---
+
+## 🔗 Find Me
+Website: https://rezahz.me  
+LinkedIn: https://www.linkedin.com/in/rezahajizade  
+GitHub: https://github.com/rezaplus
+
+---
