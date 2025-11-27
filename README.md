@@ -22,9 +22,7 @@ RabbitMQ • WebSockets • Docker • Nginx • Craft CMS • WordPress (plugin
 ---
 
 ## 🔗 Find Me
-Telegram: [https://github.com/rezaplus](http://t.me/rezaplus)
-WhatsApp: [https://wa.me/905528323901](https://wa.me/905528323901)
-LinkedIn: [https://www.linkedin.com/in/rezahajizade](https://www.linkedin.com/in/rezahajizade)
-Website: [https://rezahz.me](https://rezahz.me)
-
----
+- **Telegram:** [https://github.com/rezaplus](http://t.me/rezaplus)
+- **WhatsApp:** [https://wa.me/905528323901](https://wa.me/905528323901)
+- **LinkedIn:** [https://www.linkedin.com/in/rezahajizade](https://www.linkedin.com/in/rezahajizade)
+- **Website:** [https://rezahz.me](https://rezahz.me)
