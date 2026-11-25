@@ -1,27 +1,37 @@
-# ![Reza Hajizadeh · AI Engineer](https://raw.githubusercontent.com/rezaplus/rezaplus/fb6e36c47debe851f34fc1c36cad0ebe31e127f8/assets/profile-header.svg)
+# ![Reza Hajizadeh · AI Engineer](https://raw.githubusercontent.com/rezaplus/rezaplus/a45315c3d2da0b928b33e01a1c2761629c4eefe1/assets/profile-header.svg)
 
-I have 8+ years in software engineering. I build AI systems that answer from a company’s own documents and act through its APIs. At GuruDesk, I led a backend team for two years and took the **Paycell** and **Forex.com.tr** integrations from architecture through production support.
+**[LinkedIn](https://www.linkedin.com/in/rezahajizade)** &nbsp;·&nbsp; **[WhatsApp](https://wa.me/905528323901)** &nbsp;·&nbsp; **[Telegram](https://t.me/rezaplus)**
 
-[LinkedIn](https://www.linkedin.com/in/rezahajizade) · [BaTimo](https://batimo.ai/) · [AI integration docs](https://docs.batimo.ai/help/integrations/ai-connections)
+I have 8+ years in software engineering. I build multilingual assistants that search company documents, use business APIs and hand decisions to staff. I’m open to AI engineering roles with international teams.
 
-## AI engineering
+## Experience
 
-I spent two years developing **BaTimo**, a multilingual assistant for WhatsApp, Instagram and web chat. I owned the inquiry-to-booking workflow from requirements to release. I built both the assistant’s CRM and booking tools and the dashboards staff use to review its work.
+**GuruDesk** &nbsp;·&nbsp; AI and backend engineering &nbsp;·&nbsp; 2022–2026  
+I led the backend team for two years. For **Paycell** and **Forex.com.tr**, I led integration work from architecture through production support. I also maintained backend services for **İntegral Yatırım**. Within GuruDesk, I added retrieval and tool calling to existing workflows using OpenAI and Anthropic APIs. I built the hosting sales platform and automated provisioning and monitoring for **100+ servers**.
 
-- **Retrieval and evaluation.** I built a retrieval-augmented generation (RAG) service with Qdrant. Each search runs against one company’s documents. My regression tests cover outdated policies, passages from another tenant and irrelevant matches that score highly in vector search.
-- **Tool use and permissions.** I built an MCP server that lets ChatGPT and Claude work with leads, bookings and customer follow-ups. Each action checks the connected company and the user’s permissions. [Tool reference](https://docs.batimo.ai/help/ai-connections/mcp-tools-reference)
-- **Human review.** I combined keyword rules with a classifier that handles ambiguous messages. Staff can see which check flagged a message and decide how to respond. [Message Guard](https://docs.batimo.ai/help/conversations/message-guard)
-- **Event-driven architecture.** I connected the messaging channels to Laravel and Node.js services. Redis detects duplicate WhatsApp events before workers receive them through RabbitMQ.
+**IFPE Academy** &nbsp;·&nbsp; AI agents for internal operations  
+I worked with academy staff to identify which steps in their daily work could be automated. I deployed the agents they now use. The academy recognized this work with its **2026 AI Innovation & Digital Transformation** certificate.
 
-## Engineering experience
+**E-Mentorship** &nbsp;·&nbsp; System architecture for an Erasmus+ programme  
+I led backend architecture and database design for a portal that matches preschool teachers with experienced mentors. It supports training, assessments and progress reviews. [Project partner report](https://www.ilabour.eu/news/e-mentorship-recognised-as-an-erasmus-good-practice/)
 
-**GuruDesk · 2022–2026**  
-Alongside the client integrations, I maintained production services for **İntegral Yatırım**. I added retrieval and tool calling to backend workflows using OpenAI and Anthropic APIs. I also built the hosting sales platform and automated provisioning and monitoring for **100+ servers**.
+## BaTimo
 
-**IFPE Academy · AI agents for internal operations**  
-I worked with academy staff to identify manual tasks, then deployed agents they now use in their daily work. The academy recognized this work with its 2026 AI Innovation & Digital Transformation certificate.
+I spent two years developing [BaTimo](https://batimo.ai/), a conversational AI product for WhatsApp, Instagram and web chat. I owned the inquiry-to-booking workflow from requirements through release. I built the assistant’s CRM and booking tools and the dashboards staff use to review its work.
 
-**E-Mentorship · Erasmus+**  
-I led backend architecture and database design for a platform that pairs preschool teachers with experienced mentors. The portal handles matching, training and progress reviews. [Project partner report](https://www.ilabour.eu/news/e-mentorship-recognised-as-an-erasmus-good-practice/)
+- **Retrieval quality.** I scoped Qdrant searches to each company’s documents. My regression tests check for cross-company data leaks, outdated policies and irrelevant passages with high similarity scores.
+- **Tool permissions.** I built the MCP server that connects ChatGPT and Claude to leads, bookings and follow-ups. Each action checks the company and the user’s permissions. [MCP tool reference](https://docs.batimo.ai/help/ai-connections/mcp-tools-reference)
+- **Human review.** I combined keyword rules with a classifier for ambiguous messages. Staff can see why a message was held and decide how to respond. [Message Guard](https://docs.batimo.ai/help/conversations/message-guard)
+- **Message delivery.** I used Redis to detect duplicate WhatsApp events before queuing them in RabbitMQ. Confirmed bookings sync with Google Calendar or Outlook.
 
-**Core stack** · Python, FastAPI, Qdrant, pgvector, TypeScript, Node.js, PHP, Laravel, PostgreSQL, Redis, RabbitMQ, Docker and AWS.
+## Engineering skills
+
+| Area | Methods and tools |
+| --- | --- |
+| **Retrieval and evaluation** | RAG, document chunking, embeddings, relevance filtering, regression testing, Qdrant, pgvector, Chroma |
+| **LLM applications** | OpenAI and Anthropic APIs, tool calling, MCP, multilingual assistants, message classification, human handoff, local inference with Ollama |
+| **System design** | Multi-tenant architecture, microservices, modular monoliths, API contracts, event-driven services, webhook deduplication |
+| **Languages and services** | Python and FastAPI, TypeScript and Node.js, PHP and Laravel, Go, REST APIs, WebSockets |
+| **Data and messaging** | PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ |
+| **Cloud and reliability** | AWS, Cloudflare, Docker, Nginx, GitHub Actions, Sentry, Laravel Horizon and Telescope, PHPUnit, Pest, Jest |
+| **Product delivery** | Requirements and workflow design, React and Next.js staff dashboards, cross-functional delivery, production support |
