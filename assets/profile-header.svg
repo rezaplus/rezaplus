@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 196" width="960" height="196" role="img" aria-labelledby="title">
-  <title id="title">Reza Hajizadeh · Applied AI</title>
+  <title id="title">Reza Hajizadeh · AI Engineer</title>
   <defs>
     <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
       <circle cx="1" cy="1" r="1" fill="#90bbab" opacity=".28"/>
@@ -30,7 +30,7 @@
     </g>
     <path d="M 624 212 C 768 161, 718 35, 890 -16" stroke="#d7ec8b" fill="none" stroke-width="2.5"/>
     <path d="M42 58h32" stroke="#d7ec8b" stroke-width="3"/>
-    <text x="88" y="65" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="3" fill="#cbe0d4">APPLIED AI</text>
+    <text x="88" y="65" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="3" fill="#cbe0d4">AI Engineer</text>
     <text x="39" y="141" font-family="Georgia, 'Times New Roman', serif" font-size="70" letter-spacing="-2" fill="#f7f5ed">Reza Hajizadeh</text>
   </g>
 </svg>
