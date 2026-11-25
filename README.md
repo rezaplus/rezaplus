@@ -1,21 +1,24 @@
 # Reza Hajizadeh
 
-I build AI assistants that work with business software. I run Rellaco from Istanbul. I’ve spent eight years building backends, including two years leading a team at GuruDesk.
+**AI Engineer** · [LinkedIn](https://www.linkedin.com/in/rezahajizade) · [Portfolio](https://rezahz.me/)
 
-[Portfolio](https://rezahz.me/) · [LinkedIn](https://www.linkedin.com/in/rezahajizade) · [WordPress contributions](https://profiles.wordpress.org/rezaplus/)
+I build AI assistants that answer questions from documents and use APIs to complete tasks. I have eight years of backend development experience, including two years leading a team at GuruDesk.
 
-## BaTimo
+## Selected engineering work
 
-I built Timo for businesses that take bookings and sell through WhatsApp, Instagram, and web chat. When a customer asks “Do you have an opening on Friday?”, Timo checks the calendar and can book the slot in the same conversation.
+**[Turkish support assistant](https://github.com/rezaplus/ai-turkish-support-assistant) · Retrieval and evaluation**  
+Built a Python API that retrieves policy sections with pgvector and runs a local model with Ollama. The API checks each citation before returning an answer. The recorded evaluation passed all 12 cases, including questions with missing evidence or conflicting policy versions. [Evaluation results](https://github.com/rezaplus/ai-turkish-support-assistant/blob/main/evaluation/results.md)
 
-I use Laravel for the API and Node.js for the messaging services. I also wrote the WordPress plugin that lets Timo search a shop’s WooCommerce catalog and create a checkout link for the items a customer picks.
+**[BaTimo](https://batimo.ai/) · Conversational AI and backend integration**  
+Built the Laravel API and Node.js messaging services behind an assistant for WhatsApp, Instagram, and web chat. Wrote the WordPress integration that lets the assistant search a WooCommerce catalog and generate a signed checkout link. [Published plugin](https://wordpress.org/plugins/batimo-ai/)
 
-[BaTimo](https://batimo.ai/) · [How booking works](https://batimo.ai/booking/) · [WordPress plugin](https://wordpress.org/plugins/batimo-ai/)
+**[EvaExchange](https://github.com/rezaplus/ExchangeCaseStudy) · Backend case study**  
+Implemented a trading simulator with Express and PostgreSQL. The API prices each trade from stored share rates and checks portfolio holdings before accepting a sale.
 
-## Selected work
+## Technical skills
 
-| Project | What I built |
+| Area | Technologies |
 | --- | --- |
-| [Turkish support assistant](https://github.com/rezaplus/ai-turkish-support-assistant) | A RAG service in Python with FastAPI and pgvector. Each answer cites a section of the current policy. The [12 evaluation cases](https://github.com/rezaplus/ai-turkish-support-assistant/blob/main/evaluation/results.md) cover missing information and conflicting policy versions. |
-| [EvaExchange](https://github.com/rezaplus/ExchangeCaseStudy) | A share-trading simulator with a Node.js API and PostgreSQL. It records trades and checks a portfolio’s holdings before it accepts a sale. |
-| [Orders Pro](https://wordpress.org/plugins/orders-pro/) | A WooCommerce plugin for people who pack orders. It puts product photos, quantities, and prices together in the order preview. |
+| Applied AI | Python, FastAPI, retrieval-augmented generation (RAG), pgvector, Ollama, tool calling, MCP |
+| Backend | PHP, Laravel, Node.js, Express, Go, REST APIs |
+| Data and infrastructure | PostgreSQL, MySQL, Redis, RabbitMQ, Docker, Nginx |
