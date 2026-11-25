@@ -1,104 +1,21 @@
-# 👋 Reza Hajizadeh
+# Reza Hajizadeh
 
-### Backend Engineer • Laravel • Node.js • Go
+I build AI assistants that work with business software. I run Rellaco from Istanbul. I’ve spent eight years building backends, including two years leading a team at GuruDesk.
 
-Building scalable backend systems, REST APIs, real-time applications, and AI-powered platforms with over **8 years** of professional experience.
+[Portfolio](https://rezahz.me/) · [LinkedIn](https://www.linkedin.com/in/rezahajizade) · [WordPress contributions](https://profiles.wordpress.org/rezaplus/)
 
-> I focus on clean architecture, performance, reliability, and developer experience.
+## BaTimo
 
----
+I built Timo for businesses that take bookings and sell through WhatsApp, Instagram, and web chat. When a customer asks “Do you have an opening on Friday?”, Timo checks the calendar and can book the slot in the same conversation.
 
-## 🚀 Tech Stack
+I use Laravel for the API and Node.js for the messaging services. I also wrote the WordPress plugin that lets Timo search a shop’s WooCommerce catalog and create a checkout link for the items a customer picks.
 
-### Languages & Frameworks
+[BaTimo](https://batimo.ai/) · [How booking works](https://batimo.ai/booking/) · [WordPress plugin](https://wordpress.org/plugins/batimo-ai/)
 
-* **PHP** (Laravel)
-* **Node.js**
-* **Go**
+## Selected work
 
-### Databases
-
-* MySQL
-* PostgreSQL
-* MongoDB
-* Redis
-
-### Infrastructure
-
-* Docker
-* Nginx
-* RabbitMQ
-* WebSockets
-
-### CMS & Platforms
-
-* Craft CMS
-* WordPress (Plugin Development)
-
-### AI & LLM
-
-* OpenAI API
-* Multi-Agent Systems
-* AI Chatbot Development
-* Agentic Workflows
-* MCP (Model Context Protocol)
-* Tool / Function Calling
-* AI API Design
-
----
-
-## 💼 Selected Projects
-
-### 🤖 BaTimo.ai
-
-Multi-channel AI CRM integrating **WhatsApp, Instagram, and Web Chat** with intelligent automation.
-
-### 🇪🇺 E-Mentorship
-
-Backend architecture and database design for an **Erasmus+** funded platform supporting early childhood educators.
-
-### 📇 Contacti'm
-
-Personal CRM for iOS powered by a high-performance **Go** backend.
-
-### 🔐 Panguards
-
-Automation platform for provisioning and managing **Outline VPN** access keys.
-
-### 🛒 Orders Pro
-
-Advanced WooCommerce order management plugin with workflow automation.
-
-### 💬 TWChat
-
-WordPress plugin providing WhatsApp integration for customer communication.
-
-### 🌍 Enterprise Platforms
-
-Backend development for high-traffic web applications serving **1M+ monthly visitors**.
-
----
-
-## 🛠 Core Expertise
-
-* REST API Design
-* Backend Architecture
-* Microservices
-* Event-Driven Systems
-* Queue Processing
-* Authentication & Authorization
-* Third-Party API Integrations
-* Performance Optimization
-* Database Design
-* Real-Time Messaging
-* SaaS Development
-* Cloud & Containerized Deployments
-
----
-
-## 🌐 Connect
-
-* **Website:** https://rezahz.me
-* **LinkedIn:** https://www.linkedin.com/in/rezahajizade
-* **Telegram:** https://t.me/rezaplus
-* **WhatsApp:** https://wa.me/905528323901
+| Project | What I built |
+| --- | --- |
+| [Turkish support assistant](https://github.com/rezaplus/ai-turkish-support-assistant) | A RAG service in Python with FastAPI and pgvector. Each answer cites a section of the current policy. The [12 evaluation cases](https://github.com/rezaplus/ai-turkish-support-assistant/blob/main/evaluation/results.md) cover missing information and conflicting policy versions. |
+| [EvaExchange](https://github.com/rezaplus/ExchangeCaseStudy) | A share-trading simulator with a Node.js API and PostgreSQL. It records trades and checks a portfolio’s holdings before it accepts a sale. |
+| [Orders Pro](https://wordpress.org/plugins/orders-pro/) | A WooCommerce plugin for people who pack orders. It puts product photos, quantities, and prices together in the order preview. |
