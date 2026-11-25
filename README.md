@@ -1,35 +1,27 @@
-# ![Reza Hajizadeh · AI Engineer](assets/profile-header.svg)
+# ![Reza Hajizadeh · AI Engineer](https://raw.githubusercontent.com/rezaplus/rezaplus/fb6e36c47debe851f34fc1c36cad0ebe31e127f8/assets/profile-header.svg)
 
-Istanbul, Türkiye · [LinkedIn](https://www.linkedin.com/in/rezahajizade) · [WordPress developer profile](https://profiles.wordpress.org/rezaplus/#content-plugins)
+I have 8+ years in software engineering. I build AI systems that answer from a company’s own documents and act through its APIs. At GuruDesk, I led a backend team for two years and took the **Paycell** and **Forex.com.tr** integrations from architecture through production support.
 
-I build multilingual AI assistants and the backend systems they depend on. I have eight years of software engineering experience. My work spans document retrieval, API design and operating services in production.
+[LinkedIn](https://www.linkedin.com/in/rezahajizade) · [BaTimo](https://batimo.ai/) · [AI integration docs](https://docs.batimo.ai/help/integrations/ai-connections)
 
-**Product ownership.** At [BaTimo](https://batimo.ai/), I own the workflow from a customer’s first message to a confirmed booking. I define what the assistant can do, when staff take over and how the CRM and calendar stay in sync.
+## AI engineering
 
-## Engineering skills
+I spent two years developing **BaTimo**, a multilingual assistant for WhatsApp, Instagram and web chat. I owned the inquiry-to-booking workflow from requirements to release. I built both the assistant’s CRM and booking tools and the dashboards staff use to review its work.
 
-| Specialty | Engineering work |
-| --- | --- |
-| **Retrieval and evaluation** | Built retrieval-augmented generation (RAG) with Python and Qdrant. Wrote regression tests for outdated documents, irrelevant matches and accidental retrieval across customer accounts. |
-| **LLM integration** | Built tool-calling workflows with OpenAI and Anthropic APIs. Designed an [MCP server](https://docs.batimo.ai/help/integrations/ai-connections) that limits each tool to the connected company and the user’s permissions. |
-| **System architecture** | Designed multi-tenant services in Laravel and Node.js. Used Redis to detect duplicate WhatsApp events before sending work to RabbitMQ. Designed MySQL schemas and role-based APIs for a mentorship platform. |
-| **Production engineering** | Deployed Docker services on AWS. Used Sentry for errors, Laravel Horizon for queues and Telescope to trace requests. Automated releases with GitHub Actions. |
+- **Retrieval and evaluation.** I built a retrieval-augmented generation (RAG) service with Qdrant. Each search runs against one company’s documents. My regression tests cover outdated policies, passages from another tenant and irrelevant matches that score highly in vector search.
+- **Tool use and permissions.** I built an MCP server that lets ChatGPT and Claude work with leads, bookings and customer follow-ups. Each action checks the connected company and the user’s permissions. [Tool reference](https://docs.batimo.ai/help/ai-connections/mcp-tools-reference)
+- **Human review.** I combined keyword rules with a classifier that handles ambiguous messages. Staff can see which check flagged a message and decide how to respond. [Message Guard](https://docs.batimo.ai/help/conversations/message-guard)
+- **Event-driven architecture.** I connected the messaging channels to Laravel and Node.js services. Redis detects duplicate WhatsApp events before workers receive them through RabbitMQ.
 
-**Languages and tools** · Python (FastAPI), PHP (Laravel, Yii2), JavaScript and TypeScript (Node.js), Go, PostgreSQL, pgvector and Ollama.
+## Engineering experience
 
-## Experience
+**GuruDesk · 2022–2026**  
+Alongside the client integrations, I maintained production services for **İntegral Yatırım**. I added retrieval and tool calling to backend workflows using OpenAI and Anthropic APIs. I also built the hosting sales platform and automated provisioning and monitoring for **100+ servers**.
 
-- **GuruDesk · 2022–2026.** Progressed from senior backend development to AI engineering. Led the backend team for two years. Maintained platforms serving **300M+ requests per month in total** and built provisioning tools for over 100 servers.
-- **Culter Media Hub · 2021–2022.** Built booking and editorial tools in Laravel and WordPress. Reduced backend response times by **35–55%** on key sites.
-- **Parlak Market · 2018–2021.** Built a WooCommerce platform that processed **1,000–1,200 orders per month**. Cut page load time from 3.5 to 1.2 seconds.
+**IFPE Academy · AI agents for internal operations**  
+I worked with academy staff to identify manual tasks, then deployed agents they now use in their daily work. The academy recognized this work with its 2026 AI Innovation & Digital Transformation certificate.
 
-**Education** · B.Sc. in Information Technology, Tabriz Industrial Management Institute.
+**E-Mentorship · Erasmus+**  
+I led backend architecture and database design for a platform that pairs preschool teachers with experienced mentors. The portal handles matching, training and progress reviews. [Project partner report](https://www.ilabour.eu/news/e-mentorship-recognised-as-an-erasmus-good-practice/)
 
-## Selected public code
-
-| Project | What to look at |
-| --- | --- |
-| [Studio](https://github.com/rezaplus/Studio) | Python workflows for multilingual video production. The [request router](https://github.com/rezaplus/Studio/blob/main/scripts/agent/route_request.py) maps each request to a script and identifies steps that need approval. |
-| [ChatRoom](https://github.com/rezaplus/ChatRoom) | A Laravel messaging API. The [route definitions](https://github.com/rezaplus/ChatRoom/blob/main/routes/api.php) show room permissions, join approvals and rate limits. |
-| [TWChat](https://github.com/rezaplus/TWChat-Two-Way-Chat-plugin-for-WordPress) · [Orders Pro](https://github.com/rezaplus/WooCommerce-Orders-pro) | Two open-source WooCommerce plugins. TWChat connects order support to WhatsApp. Orders Pro shows staff which items to pack. |
-| [CommentRating](https://github.com/rezaplus/CommentRating) | A Laravel package and [companion WordPress plugin](https://github.com/rezaplus/Comment-Rating-wordpress-plugin) for collecting comments and calculating average ratings. |
+**Core stack** · Python, FastAPI, Qdrant, pgvector, TypeScript, Node.js, PHP, Laravel, PostgreSQL, Redis, RabbitMQ, Docker and AWS.
