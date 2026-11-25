@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 196" width="960" height="196" role="img" aria-labelledby="title">
+  <title id="title">Reza Hajizadeh · Applied AI</title>
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#90bbab" opacity=".28"/>
+    </pattern>
+    <clipPath id="panel"><rect width="960" height="196" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#panel)">
+    <rect width="960" height="196" fill="#102922"/>
+    <rect x="606" width="354" height="196" fill="url(#grid)"/>
+    <g fill="none" stroke="#83bda3" stroke-width="1.5">
+      <path d="M 592 212 C 752 137, 678 67, 818 -16"/>
+      <path d="M 596 212 C 754 140, 683 63, 827 -16"/>
+      <path d="M 600 212 C 756 143, 688 59, 836 -16"/>
+      <path d="M 604 212 C 758 146, 693 55, 845 -16"/>
+      <path d="M 608 212 C 760 149, 698 51, 854 -16"/>
+      <path d="M 612 212 C 762 152, 703 47, 863 -16"/>
+      <path d="M 616 212 C 764 155, 708 43, 872 -16"/>
+      <path d="M 620 212 C 766 158, 713 39, 881 -16"/>
+      <path d="M 624 212 C 768 161, 718 35, 890 -16"/>
+      <path d="M 628 212 C 770 164, 723 31, 899 -16"/>
+      <path d="M 632 212 C 772 167, 728 27, 908 -16"/>
+      <path d="M 636 212 C 774 170, 733 23, 917 -16"/>
+      <path d="M 640 212 C 776 173, 738 19, 926 -16"/>
+      <path d="M 644 212 C 778 176, 743 15, 935 -16"/>
+      <path d="M 648 212 C 780 179, 748 11, 944 -16"/>
+      <path d="M 652 212 C 782 182, 753 7, 953 -16"/>
+      <path d="M 656 212 C 784 185, 758 3, 962 -16"/>
+    </g>
+    <path d="M 624 212 C 768 161, 718 35, 890 -16" stroke="#d7ec8b" fill="none" stroke-width="2.5"/>
+    <path d="M42 58h32" stroke="#d7ec8b" stroke-width="3"/>
+    <text x="88" y="65" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="3" fill="#cbe0d4">APPLIED AI</text>
+    <text x="39" y="141" font-family="Georgia, 'Times New Roman', serif" font-size="70" letter-spacing="-2" fill="#f7f5ed">Reza Hajizadeh</text>
+  </g>
+</svg>
